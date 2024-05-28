@@ -13,10 +13,10 @@
 - la concaténation  
 
 ## 03 Module les variables d'environements
-**$_POST**
-**$_GET**
-- mise en place de $_GET  
-- mise en place de $_POST  
+**$_POST**  
+**$_GET**  
+- mise en place de $_GET   
+- mise en place de $_POST   
 
 ## 04 TP 01 Calcule IMC
 https://fr.wikipedia.org/wiki/Indice_de_masse_corporelle
@@ -48,5 +48,11 @@ https://fr.wikipedia.org/wiki/Indice_de_masse_corporelle
 
 # Liens utiles
 
-Tut plus de envato
-https://tutsplus.com/t/tutorials/search/php
+Tut plus de envato  
+https://tutsplus.com/t/tutorials/search/php 
+
+Doc php **string** chaine de caractères  
+https://www.php.net/manual/fr/ref.strings.php  
+
+Doc php **array** les tableaux  
+https://www.php.net/manual/en/ref.array.php
