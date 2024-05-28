@@ -5,17 +5,17 @@ https://www.php.net/manual/en/ref.array.php
 
 ## Excercice 1
 ![tableau](../img/08-tableau.png)
-Créer ce tableau 2 dimenssions 
-et l'afficher avec un boucle foreach  
+Créer ce tableau 2 dimenssions   
+et l'afficher avec un boucle foreach  en HTML
 
-## Excercice 1
+## Excercice 2
 Créer un tableau d’entiers variant de 1 à 63, puis, à partir de celui-ci, un autre tableau 
 de nombres variant de 0 à 6.3.  
 Créer ensuite un tableau associatif dont les clés X varient de 0 à 6.3 et dont les valeurs 
 sont sin(X).  
 Afficher ce tableau dans un tableau HTML.
 
-## Excerice 2
+## Excerice 3
 
 | Indice  | Valeur | 
 | :--------------- |:---------------:|
