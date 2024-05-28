@@ -11,8 +11,21 @@ Afficher ce tableau dans un tableau HTML.
 Créer un tableau contenant une liste d’adresses e-mail.  
 Extraire le nom de serveur de ces données puis réaliser des statistiques sur les occurrences de chaque fournisseur d’accès. 
 
-| Aligné à gauche  |   ce texte        |  Aligné à droite |
-| Aligné à gauche  | est             |   Aligné à droite |
-| Aligné à gauche  | centré          |    Aligné à droite |
+"abc@sfr.fr",
+		"def@sfr.fr",
+		"ghi@sfr.fr",
+		"jkl@sfr.fr",
+		"mno@sfr.fr",
+		"pqr@orange.fr",
+		"stu@orange.fr",
+		"vwx@orange.fr",
+		"yz@free.com",
+		"toto@free.com",
+
+| Indice  | Valeur | 
+| :--------------- |:---------------:|
+| 0 | hello@sfr.fr |
+| 0 | hello@sfr.fr |
+
 
 
