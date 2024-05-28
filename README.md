@@ -6,7 +6,7 @@
 - Architecture  
 - Seveur Appache  
 
-## 02 Les base du language PHP
+## 02 Les bases du language PHP
 - Les balises  
 - les commentaires  
 - les boucles  

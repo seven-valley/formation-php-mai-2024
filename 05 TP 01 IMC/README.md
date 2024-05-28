@@ -1,13 +1,15 @@
 # Calculer votre IMC
-poids en kg  
+https://fr.wikipedia.org/wiki/Indice_de_masse_corporelle
+
+poids en kg    
 taille en mètre  
 imc = poids / (taille*taille)  
--------  
+  
 par exemple :  
 1m80 pour 80kg   
 imc = 80 / (1.8*1.8)  
 imc = 25  
--------  
+  
 Si imc < 18.5  tranche : maigreure  
 Si 18.5 < imc< 25  tranche : normal  
 Si 25 < imc < 30 tranche : surpoids  
