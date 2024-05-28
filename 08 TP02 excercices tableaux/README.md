@@ -32,7 +32,7 @@ Afficher ce tableau dans un tableau HTML.
 Créer un tableau contenant une liste d’adresses e-mail.  
 Extraire le nom de serveur de ces données puis réaliser des statistiques sur les occurrences de chaque fournisseur d’accès. 
 
-**Objectif**
+**Objectif :**
 
 | Indice  | Valeur | 
 | :--------------- |:---------------:|
