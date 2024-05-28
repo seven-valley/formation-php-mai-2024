@@ -42,14 +42,27 @@
           type="text"
           class="form-control my-3"
           id="taille"
-          placeholder="Poids en mètre "
+          placeholder="Taille en mètre "
         />
         <button class="btn btn-primary" id="btnCalculer">Calculer</button>
         <div class="alert alert-success mt-3" role="alert">
           Votre IMC est <span id="imc"></span><br />
-          tranche : <span id="tranche"></span><br />
+          tranche : normal<span id="tranche"></span><br />
           conseil : <span id="conseil"></span>
         </div>
+
+        <div class="alert alert-danger mt-3" role="alert">
+          Votre IMC est <span id="imc"></span><br />
+          tranche : suproids<span id="tranche"></span><br />
+          conseil : <span id="conseil"></span>
+        </div>
+
+        <div class="alert alert-warning mt-3" role="alert">
+          Votre IMC est <span id="imc"></span><br />
+          tranche : obese<span id="tranche"></span><br />
+          conseil : <span id="conseil"></span>
+        </div>
+        <a href="https://getbootstrap.com/docs/4.0/components/alerts/">https://getbootstrap.com/docs/4.0/components/alerts/</a>
       </div>
     </div>
     <footer class="py-5 bg-dark">
