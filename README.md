@@ -27,7 +27,7 @@
 - mise en place de $_POST   
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/04%20M%C3%A9thode%20POST)
 ## 05 TP 01 Calcule IMC
-TP Calculer votre  IMC
+TP Calculer votre  IMC  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/05%20TP%2001%20IMC)
 ## 06 Les tableaux
 - parcourir un tableau avec une boucle for

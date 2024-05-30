@@ -70,4 +70,4 @@ $tab3 = ['pomme','poire','cerise']; // indice 1
 array_splice($tab3, 1, 1);
 var_dump($tab3);
 ```
-*** realocation des indices !!!***
+***realocation des indices !!!***
