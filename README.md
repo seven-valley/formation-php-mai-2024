@@ -30,6 +30,7 @@
 TP Calculer votre  IMC  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/05%20TP%2001%20IMC)
 ## 06 Les tableaux
+- déclarer un tableau et le remplir
 - parcourir un tableau avec une boucle for
 - parcourir un tableau avec une boucle foreach
 - ajouter un élément dans un tableau

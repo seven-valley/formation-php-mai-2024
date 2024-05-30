@@ -1,6 +1,11 @@
 # 06 - Les Tableaux 1 dimenssion
 
 ## je déclare un tableau
+- déclarer un tableau et le remplir
+- parcourir un tableau avec une boucle for
+- parcourir un tableau avec une boucle foreach
+- ajouter un élément dans un tableau
+- enlever un élément dans un tableau de 2 façons 
 
 ### declarer en dure
 ```php
