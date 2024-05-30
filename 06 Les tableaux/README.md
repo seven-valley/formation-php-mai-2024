@@ -83,7 +83,7 @@ var_dump($tab);
 ### 2 - autre façon
 ```php
 $tab3 = ['pomme','poire','cerise']; // indice 1
-array_splice($tab3, 1, 1);
+array_splice($tab3, 1, 1); //( le tableau, l'indice, le nb d'elements à effacer)
 var_dump($tab3);
 ```
 | Indice  | Valeur | 
