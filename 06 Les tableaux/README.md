@@ -60,14 +60,25 @@ foreach ($tab as $i => $fruit){
 ```
 
 ## Effacer un élément 2 façons
-// effacer poire du tableau 3
 
+le tableau initial :
+| Indice  | Valeur | 
+| :--------------- |:---------------:|
+| 0 | pomme |
+| 1 | poire |
+| 2 | cerise |
+
+// effacer poire du tableau 3
 ### 1 - la plus commune
 ```php
 $tab = ['pomme','poire','cerise']; // indice 1
 unset($tab[1]);
 var_dump($tab);
 ```
+| Indice  | Valeur | 
+| :--------------- |:---------------:|
+| 0 | pomme |
+| 2 | cerise |
 
 ### 2 - autre façon
 ```php
@@ -75,4 +86,8 @@ $tab3 = ['pomme','poire','cerise']; // indice 1
 array_splice($tab3, 1, 1);
 var_dump($tab3);
 ```
+| Indice  | Valeur | 
+| :--------------- |:---------------:|
+| 0 | pomme |
+| 1 | cerise |
 ***realocation des indices !!!***
