@@ -21,8 +21,7 @@
 - mise en place de $_POST   
 
 ## 05 TP 01 Calcule IMC
-[demo en javascript]https://seven-valley.github.io/formation-php-mai-2024/web/tp1-1/
-https://fr.wikipedia.org/wiki/Indice_de_masse_corporelle
+TP Calculer votre  IMC
 
 ## 06 Les tableaux
 - parcourir un tableau avec une boucle for

@@ -2,7 +2,8 @@
 https://fr.wikipedia.org/wiki/Indice_de_masse_corporelle
 
 démo live :
-https://seven-valley.github.io/formation-php-mai-2024/web/tp1-1/
+[demo en javascript](https://seven-valley.github.io/formation-php-mai-2024/web/tp1-1/)
+
 
 poids en kg    
 taille en mètre  
