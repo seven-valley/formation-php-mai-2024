@@ -90,4 +90,6 @@ var_dump($tab3);
 | :--------------- |:---------------:|
 | 0 | pomme |
 | 1 | cerise |
+
+  
 ***realocation des indices !!!***
