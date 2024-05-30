@@ -20,7 +20,7 @@
 
 ## 03 Module les variables d'environements
 **$_GET**  
-- mise en place de $_GET 
+- mise en place de $_GET   
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/03%20M%C3%A9thode%20GET)
 ## 04 Module les variables d'environements
 **$_POST**     
@@ -33,15 +33,15 @@ TP Calculer votre  IMC
 - parcourir un tableau avec une boucle for
 - parcourir un tableau avec une boucle foreach
 - ajouter un élément dans un tableau
-- enlever un élément dans un tableau de 2 façons
+- enlever un élément dans un tableau de 2 façons    
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/06%20Les%20tableaux)
 
 ## 07 Les tableaux 2 dimensions
 - parcourir un tableau 2 dimensions
-- ajouter un élément dans un tableau 2D
+- ajouter un élément dans un tableau 2D  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/07%20Les%20tableaux%202D)
 ## 08 TP 02 Les tableaux
-- Liste d'excercices pour bien apréhender les tableaux
+- Liste d'excercices pour bien apréhender les tableaux  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/06%20Les%20tableaux)
 ## 09 Les sessions
 - mise en place d'une session
