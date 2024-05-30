@@ -21,6 +21,7 @@
 - mise en place de $_POST   
 
 ## 05 TP 01 Calcule IMC
+[demo en javascript]https://seven-valley.github.io/formation-php-mai-2024/web/tp1-1/
 https://fr.wikipedia.org/wiki/Indice_de_masse_corporelle
 
 ## 06 Les tableaux
@@ -46,11 +47,13 @@ https://fr.wikipedia.org/wiki/Indice_de_masse_corporelle
 ## 10 TP 04 VIP Cocktail
 - Utiliser les session pour stoker un tableau 2D
 
-## 11 TP 05 Factures
+## 11 TP 06 Memory le Majhong
 - Utiliser les session pour stoker un tableau 2D
 
-## 12 TP 06 Memory le Majhong
+## 12 TP 05 Factures
 - Utiliser les session pour stoker un tableau 2D
+
+
 
 # Liens utiles
 
