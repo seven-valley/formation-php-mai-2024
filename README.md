@@ -2,19 +2,21 @@
 
 
 ## 00 - Instalation
-- Comment bien installer Wamp ?
+- Comment bien installer Wamp ?  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/00%20Installation%20Wamp)
 ## 01 Introduction
 - Historique  
 - Back end & Front end  
 - Architecture  
 - Seveur Appache  
+[voir](https://github.com/seven-valley/formation-php-mai-2024/blob/main/01%20PHP%208%20Introduction.pdf)  
 
 ## 02 Les bases du language PHP
 - Les balises  
 - les commentaires  
 - les boucles  
 - la concaténation  
+[voir](https://github.com/seven-valley/formation-php-mai-2024/blob/main/02%20PHP%208%20les%20bases%20du%20language.pdf)  
 
 ## 03 Module les variables d'environements
 **$_GET**  
