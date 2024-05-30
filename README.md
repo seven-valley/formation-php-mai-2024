@@ -49,15 +49,15 @@ TP Calculer votre  IMC
 - récupérer les données d'une sessions
 
 ## 10 TP 03 Mise en place d'une authentification
-- Utiliser les session pour stoker un tableau 2D
+- Utiliser les session gérer l'authentification
 
 ## 11 TP 04 VIP Cocktail
 - Utiliser les session pour stoker un tableau 2D
 
-## 12 TP 06 Memory le Majhong
-- Utiliser les session pour stoker un tableau 2D
+## 12 TP 05 Memory le Majhong
+- Utiliser les session pour stoker un tableau 1D
 
-## 13 TP 05 Factures
+## 13 TP 06 Factures
 - Utiliser les session pour stoker un tableau 2D
 
 
