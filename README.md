@@ -43,7 +43,7 @@ TP Calculer votre  IMC
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/07%20Les%20tableaux%202D)
 ## 08 - TP 02 Les tableaux
 - Liste d'excercices pour bien apréhender les tableaux  
-[voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/06%20Les%20tableaux)
+[voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/08%20TP02%20excercices%20tableaux)
 ## 09 - Les sessions
 - mise en place d'une session
 - récupérer les données d'une sessions
