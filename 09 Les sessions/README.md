@@ -78,6 +78,11 @@ session_destroy(); // Détruit une session
 header("location:page-a.php");
 ```
 
+### ETAPE 4  debuger
+```php 
+var_dump($_SESSION);
+```
+  
 **documentation session**   
 https://www.php.net/manual/en/reserved.variables.session.php  
 **documentation header**  

@@ -8,6 +8,7 @@
     <input name="annee"><br>
     <button type="submit">GO</button>
 </form>
+<a href="vider.php">vider la session</a><br><br>
 <?php 
    // si il y a qlq chose en session
    if (isset ($_SESSION["films"])):

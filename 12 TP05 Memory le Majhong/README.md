@@ -11,6 +11,7 @@ A partire du répertoire ressources
 
 **etape 1**  
  afficher en php les tuiles de 1 à 32  
+**le fichier etape1.php est fait !**
 
 **etape 2**  
  afficher les tuiles de 1 à 32 mélangées  

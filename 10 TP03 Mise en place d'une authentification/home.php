@@ -13,10 +13,10 @@
     <div class="container">
       <a class="navbar-brand" href="#">Mes séries préférées</a>
     	<div>
-    		 <button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">
+    		 <a class="btn btn-outline-secondary my-2 my-sm-0" href="#">
     		 	<i class="fas fa-sign-out-alt"></i>
     		 	Jean-Frédéric 
-    		 </button>
+</a>
     	</div>
       
   </nav>
