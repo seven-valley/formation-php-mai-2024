@@ -72,9 +72,9 @@ if (isset($_POST["nom_film"]) && isset($_POST["annee"])){
 ### ETAPE 3  vider la session 
 ```php
 <?php
-session_start();
-session_unset();
-session_destroy();
+session_start(); 
+session_unset(); // Détruit toutes les variables d'une session
+session_destroy(); // Détruit une session
 header("location:page-a.php");
 ```
 
