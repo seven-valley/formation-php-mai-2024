@@ -58,13 +58,13 @@ TP Calculer votre  IMC
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/11%20TP04%20VIP%20Cocktail)
 
 ## 12 - TP 05 Memory le Majhong
-- Utiliser les session pour stoker un tableau 1D
+- Utiliser les session pour stoker un tableau 1D  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/12%20TP05%20Memory%20le%20Majhong)
 
 
 ## 13 - TP 06 Factures
-- Utiliser les session pour stoker un tableau 2D
-[voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/12%20TP05%20Memory%20le%20Majhong)
+- Utiliser les session pour stoker un tableau 2D  
+[voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/13%20TP06%20Factures)
 
 
 
