@@ -1,6 +1,10 @@
 # 12 - TP 05 Memory le Majhong
 ![module-10](../img/12-jeux.png)  
 
+démo live en **JavaScript**:
+[demo en javascript](https://seven-valley.github.io/formation-php-mai-2024/web/tp1-12/)
+
+
 A partire du répertoire ressources 
 
 ## Objectifs :

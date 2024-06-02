@@ -1,0 +1,6 @@
+dans un fichier HTML à part 
+et avec concole.log :
+Afficher des nombres de 23 à 42
+Afficher une liste tel que  0 2 4 ... 16
+Créer un tableau d'entier de 0 à 15
+Créer un tableau qui va de 0 à 15  2 fois
