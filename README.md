@@ -44,9 +44,10 @@ TP Calculer votre  IMC
 ## 08 - TP 02 Les tableaux
 - Liste d'excercices pour bien apréhender les tableaux  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/08%20TP02%20excercices%20tableaux)
-## 09 - Les sessions
+## 09 - Les sessions :heart_eyes: 
 - mise en place d'une session
 - récupérer les données d'une sessions
+[voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/09%20Les%20sessions)
 
 ## 10 - TP 03 Mise en place d'une authentification
 - Utiliser les session gérer l'authentification
