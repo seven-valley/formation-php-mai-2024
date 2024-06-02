@@ -54,7 +54,7 @@ TP Calculer votre  IMC
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/10%20TP03%20Mise%20en%20place%20d'une%20authentification)
 
 ## 11 - TP 04 VIP Cocktail
-- Utiliser les session pour stoker un tableau 2D
+- Utiliser les session pour stoker un tableau 2D  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/11%20TP04%20VIP%20Cocktail)
 
 ## 12 - TP 05 Memory le Majhong
