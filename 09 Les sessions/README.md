@@ -1,4 +1,4 @@
-# 09 Les session
+# 09 Les sessions
 ![module-9](../img/09-session.png)
 
 
