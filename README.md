@@ -64,6 +64,7 @@ TP Calculer votre  IMC
 
 ## 13 - TP 06 Factures
 - Utiliser les session pour stoker un tableau 2D
+[voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/12%20TP05%20Memory%20le%20Majhong)
 
 
 
