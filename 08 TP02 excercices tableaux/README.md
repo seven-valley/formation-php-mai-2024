@@ -42,8 +42,6 @@ Afficher ce tableau dans un tableau HTML.
 **Objectif 3 :**
 Tableau de valeurs de la fonction sinus :  
 
-
-
 | X  | sin (x) | 
 | :--------------- |:---------------:|
 | 0 | 0 |
@@ -73,7 +71,7 @@ Tableau de valeurs de la fonction sinus :
 Créer un tableau contenant une liste d’adresses e-mail.  
 Extraire le nom de serveur de ces données puis réaliser des statistiques sur les occurrences de chaque fournisseur d’accès. 
 
-**Objectif :**
+**Objectifs :**
 
 | Indice  | Valeur | 
 | :--------------- |:---------------:|

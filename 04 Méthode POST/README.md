@@ -8,6 +8,7 @@
     <input name="prenom"><br>
     <input name="nom"><br>
     <input name="age"><br>
+     <button type="submit">GO</button>
 </form>
 ```
 
