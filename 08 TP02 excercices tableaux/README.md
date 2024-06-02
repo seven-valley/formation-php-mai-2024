@@ -42,11 +42,7 @@ Afficher ce tableau dans un tableau HTML.
 **Objectif 3 :**
 Tableau de valeurs de la fonction sinus :  
 
-0	0
-0.1	0.099833416646828
-0.2	0.19866933079506
-0.3	0.29552020666134
-0.4	0.38941834230865
+
 
 | X  | sin (x) | 
 | :--------------- |:---------------:|
