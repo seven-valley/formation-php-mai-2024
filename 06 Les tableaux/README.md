@@ -46,6 +46,8 @@ for ($i=0;$i<count($tab3);$i++){
 }
 ```
 ### la for each très utile !
+**documentation :**
+https://www.php.net/manual/en/control-structures.foreach.php
 ```php
 foreach ($tab as $fruit){
     echo $fruit."<br>";

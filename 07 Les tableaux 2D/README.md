@@ -32,6 +32,8 @@ $tab3[1]["annee"] ="1999";
 
 
 # Afficher un tableau 2D ?
+**documentation :**
+https://www.php.net/manual/en/control-structures.foreach.php
 ```php
 foreach ( $tab3 as $film){
     echo $film["titre"]."<br>";

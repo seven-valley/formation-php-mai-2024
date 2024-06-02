@@ -10,8 +10,8 @@
 
 ```php
 <form method="post" action="page-b.php">
-    <input name="prenom"><br>
-    <input name="nom"><br>
+    <input name="nom_film"><br>
+    <input name="annee"><br>
     <button type="submit">GO</button>
 </form>
 ```
@@ -19,10 +19,11 @@
 **page-b.php**  
 ```php
 <?php
-if (isset($_POST["film"]) && isset($_POST["annee"])){
-	$film = $_POST["film"];
+session_start();  // ne pas oublier de demarrer la session!
+if (isset($_POST["nom_film"]) && isset($_POST["annee"])){
+	$nom_film = $_POST["nom_film"];
     $annee =$_POST["annee"];
-    $tab["film"] =$film; // je stocke dans un tableau
+    $tab["nom_film"] =$nom_film; // je stocke dans un tableau
     $tab["annee"] =$annee;
     // $_SESSION["films"] devient un tableau 2 dimmensions
     $_SESSION["films"][] = $tab; // je stocke dans un tableau de session
@@ -54,10 +55,16 @@ if (isset($_POST["film"]) && isset($_POST["annee"])){
    foreach ($films as $tab):
 ?>
 <p>
-    <?=$tab["film"]?> - <?=$tab["annee"]?><br>
+    <?=$tab["nom_film"]?> - <?=$tab["annee"]?><br>
 </p>
 <?php 
     endforeach;
     endif; 
 ?>
 ```
+
+**documentation session** 
+https://www.php.net/manual/en/reserved.variables.session.php  
+**documentation header**  
+https://www.php.net/manual/en/function.header.php  
+
