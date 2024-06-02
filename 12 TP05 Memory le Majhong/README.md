@@ -1,6 +1,8 @@
 # 12 - TP 05 Memory le Majhong
 ![module-10](../img/12-jeux.png)  
 
+A partire du répertoire ressources 
+
 ## Objectifs :
 
 **etape 1**  
@@ -20,4 +22,6 @@ effacer les 2 mêmes tuiles
 
 **etape 6**  
 éviter le bug quand on clique 2 fois sur la meme tuile  
+
+
   
