@@ -50,7 +50,8 @@ TP Calculer votre  IMC
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/09%20Les%20sessions)
 
 ## 10 - TP 03 Mise en place d'une authentification
-- Utiliser les session gérer l'authentification
+- Utiliser les session gérer l'authentification  
+[voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/10%20TP%2003%20Mise%20en%20place%20d'une%20authentification)  
 
 ## 11 - TP 04 VIP Cocktail
 - Utiliser les session pour stoker un tableau 2D
