@@ -3,6 +3,11 @@
 
 
 ## Comment utiliser les sessions en PHP ?   
+**demo :**
+- page-a.php  
+- page-b.php  
+- vider.php  
+  
 
 ### ETAPE 1 envoyer des données
 
@@ -48,6 +53,7 @@ if (isset($_POST["nom_film"]) && isset($_POST["annee"])){
     <input name="nom"><br>
     <button type="submit">GO</button>
 </form>
+<a href="vider.php">vider la session</a><br><br>
 <?php 
    // si il y a qlq chose en session
    if (isset ($_SESSION["films"])):
@@ -61,6 +67,15 @@ if (isset($_POST["nom_film"]) && isset($_POST["annee"])){
     endforeach;
     endif; 
 ?>
+```
+
+### ETAPE 3  vider la session 
+```php
+<?php
+session_start();
+session_unset();
+session_destroy();
+header("location:page-a.php");
 ```
 
 **documentation session**   
