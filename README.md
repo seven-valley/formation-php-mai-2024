@@ -46,7 +46,7 @@ TP Calculer votre  IMC
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/08%20TP02%20excercices%20tableaux)
 ## 09 - Les sessions :heart_eyes: 
 - mise en place d'une session
-- récupérer les données d'une sessions
+- récupérer les données d'une sessions  
 [voir](https://github.com/seven-valley/formation-php-mai-2024/tree/main/09%20Les%20sessions)
 
 ## 10 - TP 03 Mise en place d'une authentification

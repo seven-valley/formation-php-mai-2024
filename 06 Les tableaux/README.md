@@ -1,5 +1,7 @@
 # 06 - Les Tableaux 1 dimenssion
-
+Doc php **array** les tableaux  
+https://www.php.net/manual/en/ref.array.php  
+  
 ## je déclare un tableau
 - déclarer un tableau et le remplir
 - parcourir un tableau avec une boucle for

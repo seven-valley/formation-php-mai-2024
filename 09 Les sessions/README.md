@@ -63,7 +63,7 @@ if (isset($_POST["nom_film"]) && isset($_POST["annee"])){
 ?>
 ```
 
-**documentation session** 
+**documentation session**   
 https://www.php.net/manual/en/reserved.variables.session.php  
 **documentation header**  
 https://www.php.net/manual/en/function.header.php  

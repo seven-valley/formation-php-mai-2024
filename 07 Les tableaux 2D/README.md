@@ -1,5 +1,7 @@
 # Comment construire un tableau 2D ?
-
+Doc php **array** les tableaux  
+https://www.php.net/manual/en/ref.array.php  
+   
 ## methode 1 :
 ```php
 $films =[
