@@ -2,9 +2,10 @@
 
 A partir des 4 fichiers mettre en place une authentification
 
-├── tp3
-│   ├── login.php
-│   ├── verif.php
-│   ├── home.php
-│   └── verif.php
+├── tp3  
+│   ├── login.php  
+│   ├── verif.php  
+│   ├── home.php  
+│   └── verif.php  
+  
 
